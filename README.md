@@ -1,2 +1,2 @@
 # test1
-Clase dek 25/09/23
+Clase del 25/09/23
